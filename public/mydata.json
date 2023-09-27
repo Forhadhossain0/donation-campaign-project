@@ -1,0 +1,136 @@
+ [
+    {
+      "id": 1,
+      "category": "health",
+      "color": "#0052FF",
+      "background":" rgba(0, 82, 255, 0.15)",
+      "image": "https://i.ibb.co/FzCFBYs/Health.png",
+      "education": "N/A",
+      "title": "Medical Supplies ",
+      "description": "Supporting education for disadvantaged children is a multifaceted endeavor that carries profound implications for both individual lives and society at large. Disadvantaged children often confront an array of formidable challenges that threaten to impede their educational progress and limit their life opportunities. These challenges may encompass limited access to quality schools, insufficient learning resources, economic hardships, and adverse living conditions. Yet, in recognizing the potential inherent in every child, we acknowledge that their circumstances need not define their futures. Investing in the education of disadvantaged children is an investment in the promise of a fairer and more just society. By providing scholarships and financial assistance, we alleviate the financial burdens that can otherwise thwart a child's access to education. Mentorship programs offer guidance and support, helping them navigate the often complex educational landscape. Access to essential learning materials, such as textbooks and technology, equips these young minds with the tools they need to excel academically Beyond the tangible resources creating safe and nurturing learning environments is paramount. It is within these environments that disadvantaged children can develop not only academically but also emotionally and socially. Such environments instill a sense of hope and self-worth, empowering these children to dream beyond their current circumstances and aspire to achieve their full potential. The impact of supporting education for disadvantaged children reverberates far beyond the individual. It contributes to a more inclusive and equitable society by breaking down barriers that perpetuate cycles of poverty and inequality. When we enable these children to access quality education and overcome the obstacles they face, we are not merely extending a helping hand we are fostering a future where every child has the opportunity to thrive regardless of their background. In conclusion advocating for and actively supporting education for disadvantaged children is an ethical imperative and an investment in a brighter, more equitable future. It underscores our commitment to the principle that every child, regardless of their circumstances, deserves the chance to learn, grow, and contribute to society. Through collective efforts and unwavering dedication, we can make this vision a reality and create a world where every child's potential is nurtured and celebrated..",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "category": "education",
+      "color": "#FF444A",
+      "background": "rgba(255, 68, 74, 0.15)",
+      "image": "https://i.ibb.co/dW0N74P/Education.png",
+      "education": "Books and School Supplies for Underprivileged Children",
+      "title": "Support Education ",
+      "description": "Help provide books and school supplies to children who lack access to quality education.",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "category": "clothing",
+      "color": "#79C23F",
+      "background": "rgba(121, 194, 63, 0.15)",
+      "image": "https://i.ibb.co/9qT01m5/Clothing.png",
+      "education": "N/A",
+      "title": "Warm Winter Clothing ",
+      "description": "Contribute to our campaign to provide warm clothing to the homeless during the winter season.",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "category": "food",
+      "color": "#F87147",
+      "background": "rgba(248, 113, 71, 0.15)",
+      "image": "https://i.ibb.co/hcp1Qc8/Food.png",
+      "education": "N/A",
+      "title": "Feed the Hungry",
+      "description": "Support a family in need by providing a month's worth of nutritious food supplies.",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "category": "health",
+      "color": "#0052FF",
+      "background":" rgba(0, 82, 255, 0.15)",
+      "image": "https://i.ibb.co/FzCFBYs/Health.png",
+      "education": "N/A",
+      "title": "Medical Camp ",
+      "description": "Help organize a medical camp to provide free healthcare services to underserved communities.",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "category": "education",
+      "color": "#FF444A",
+      "background": "rgba(255, 68, 74, 0.15)",
+      "image": "https://i.ibb.co/dW0N74P/Education.png",
+      "education": "Scholarships for Bright Students",
+      "title": "Future Leaders",
+      "description": "Contribute to scholarships for talented students pursuing higher education.",
+      "price": 25
+    },
+    {
+      "id": 7,
+      "category": "clothing",
+      "color": "#79C23F",
+      "background": "rgba(121, 194, 63, 0.15)",
+      "image": "https://i.ibb.co/9qT01m5/Clothing.png",
+      "education": "N/A",
+      "title": "Emergency Clothing Aid ",
+      "description": "Provide clothing to those affected by natural disasters who have lost everything.",
+      "price": 35
+    },
+    {
+      "id": 8,
+      "category": "food",
+      "color": "#F87147",
+      "background": "rgba(248, 113, 71, 0.15)",
+      "image": "https://i.ibb.co/hcp1Qc8/Food.png",
+      "education": "N/A",
+      "title": "Meals for Elderly Citizens",
+      "description": "Support meal programs that provide nutritious food to elderly citizens in our community.",
+      "price": 15
+    },
+    {
+      "id": 9,
+      "category": "health",
+      "color": "#0052FF",
+      "background":" rgba(0, 82, 255, 0.15)",
+      "image": "https://i.ibb.co/FzCFBYs/Health.png",
+      "education": "N/A",
+      "title": "Medical Equipment ",
+      "description": "Equip a rural hospital with much-needed medical instruments and devices.",
+      "price": 75
+    },
+    {
+      "id": 10,
+      "category": "education",
+      "color": "#FF444A",
+      "background": "rgba(255, 68, 74, 0.15)",
+      "image": "https://i.ibb.co/dW0N74P/Education.png",
+      "education": "Educational Workshops for At-Risk Youth",
+      "title": "Empower At-Risk ",
+      "description": "Support workshops and programs aimed at educating and mentoring at-risk youth.",
+      "price": 40
+    },
+    {
+      "id": 11,
+      "category": "clothing",
+      "color": "#79C23F",
+      "background": "rgba(121, 194, 63, 0.15)",
+      "image": "https://i.ibb.co/9qT01m5/Clothing.png",
+      "education": "N/A",
+      "title": "Winter Coats ",
+      "description": "Donate winter coats to keep children warm during the cold months.",
+      "price": 20
+    },
+    {
+      "id": 12,
+      "category": "food",
+      "color": "#F87147",
+      "background": "rgba(248, 113, 71, 0.15)",
+      "image": "https://i.ibb.co/hcp1Qc8/Food.png",
+      "education": "N/A",
+      "title": "Nutrition Program ",
+      "description": "Support a nutrition program that provides healthy meals to low-income families.",
+      "price": 30
+    }
+  ]
+
+
